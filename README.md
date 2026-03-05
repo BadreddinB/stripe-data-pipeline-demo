@@ -114,22 +114,4 @@ python consumer_mongo.py
 
 This service consumes the Kafka messages and stores them in MongoDB.
 
----
 
-## Demonstration Video
-
-A short demonstration video showing the pipeline running is included in the project submission.
-
-The video shows:
-
-* Docker infrastructure running
-* Kafka receiving transaction events
-* Python producer sending events
-* MongoDB storing processed transactions
-
----
-
-## Author
-
-BadreddinB
-RNCP Level 7 – AI Architect Project
